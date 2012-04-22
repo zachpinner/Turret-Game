@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EE6D0D2D-A9D7-4413-033C-5CC6FD15F83C}") = "Turret Game HackRu", "Assembly-CSharp-firstpass-vs.csproj", "{5DFC6CC7-5194-AEAA-735E-85B879204EBB}"
+EndProject
+Project("{EE6D0D2D-A9D7-4413-033C-5CC6FD15F83C}") = "Turret Game HackRu", "Assembly-CSharp-vs.csproj", "{92873C93-A451-AE16-5E03-53C74FEB2A2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DFC6CC7-5194-AEAA-735E-85B879204EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFC6CC7-5194-AEAA-735E-85B879204EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFC6CC7-5194-AEAA-735E-85B879204EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFC6CC7-5194-AEAA-735E-85B879204EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92873C93-A451-AE16-5E03-53C74FEB2A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92873C93-A451-AE16-5E03-53C74FEB2A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92873C93-A451-AE16-5E03-53C74FEB2A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92873C93-A451-AE16-5E03-53C74FEB2A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																								GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

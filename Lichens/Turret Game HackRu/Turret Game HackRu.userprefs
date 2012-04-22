@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\danceAfterKill.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CameraRotater.cs" Line="41" Column="18" />
+      <File FileName="Assets\Plugins\JsonData.cs" Line="436" Column="1" />
+      <File FileName="Assets\readme.txt" Line="25" Column="1" />
+      <File FileName="Assets\Scripts\InputTester.cs" Line="25" Column="3" />
+      <File FileName="Assets\Demo.cs" Line="95" Column="79" />
+      <File FileName="Assets\Scripts\danceAfterKill.cs" Line="9" Column="20" />
+      <File FileName="Assets\Scripts\TurretMovement.cs" Line="118" Column="47" />
+      <File FileName="Assets\Scripts\StartGame.cs" Line="34" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
